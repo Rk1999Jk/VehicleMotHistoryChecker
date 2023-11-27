@@ -1,4 +1,4 @@
-# VehicleMotHistoryChecker 
+# Vehicle Mot History Checker 
 VehicleMotHistoryChecker - Without UnitTests: The application is a Blazor Server app build on .Net 6
 
 The application accepts a registration number as a parameter. The
